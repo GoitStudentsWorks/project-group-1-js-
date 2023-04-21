@@ -2,10 +2,10 @@
   "name": "project-group-1-js",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://choodoss.github.io/project-group-1-js",
+  "homepage": "https://GoitStudentsWorks.github.io/project-group-1-js-",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /project-group-1-js/"
+    "build": "parcel build src/*.html --public-url /project-group-1-js-/"
   },
   "repository": {
     "type": "git",
